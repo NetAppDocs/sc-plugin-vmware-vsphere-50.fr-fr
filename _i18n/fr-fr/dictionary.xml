@@ -2051,7 +2051,6 @@
   <block id="5a2083853297d8e177a0fe4d54c85aad" category="paragraph">Cette tâche vous permet de modifier les paramètres du journal d'audit par défaut.</block>
   <block id="bf59ac9161d0f4561a155103d8ea2d10" category="list-text">Dans le volet *Paramètres du journal d'audit*, entrez le nombre maximal de fichiers journaux d'audit et la limite de taille du fichier journal d'audit.</block>
   <block id="f1505fcf11606ca7535d26bceed3763b" category="sidebar">Le plug-in SnapCenter pour VMware vSphere (SCV) est une appliance virtuelle basée sur Linux. En tant que autonome, elle permet d'effectuer des opérations de sauvegarde et de restauration rapides, compactes et cohérentes avec les défaillances des machines virtuelles pour les machines virtuelles, les datastores et les VMDK. Il fonctionne aussi avec SnapCenter Server pour prendre en charge les opérations de sauvegarde et de restauration basées sur les applications dans les environnements VMware pour les plug-ins spécifiques aux applications SnapCenter. Cette bibliothèque de documentation décrit le plug-in SnapCenter pour VMware vSphere version 5.0.</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="sidebar">Documentation du plug-in SnapCenter pour VMware vSphere</block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="sidebar">Le plug-in SnapCenter pour VMware vSphere (SCV) est une appliance virtuelle basée sur Linux. En tant que autonome, elle permet d'effectuer des opérations de sauvegarde et de restauration rapides, compactes et cohérentes avec les défaillances des machines virtuelles pour les machines virtuelles, les datastores et les VMDK. Il fonctionne aussi avec SnapCenter Server pour prendre en charge les opérations de sauvegarde et de restauration basées sur les applications dans les environnements VMware pour les plug-ins spécifiques aux applications SnapCenter.</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Commencez</block>
   <block id="5dd03e8d039863e563e049be198c3fd3" category="sidebar">Notes de version</block>
@@ -2096,4 +2095,5 @@
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">Les workflows d'API REST pour modifier les planifications intégrés</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">Effectuez une mise à niveau vers un nouveau correctif de la même version</block>
   <block id="b02541bab3f320c7517f41f638f6ef31" category="paragraph"><block ref="6f48ea8f284b5f5f2ad46612a3e37eec" category="inline-link-macro-rx"></block>.</block>
+  <block id="e2baf69e920d271345d54408c922dc4e" category="sidebar">Documentation du plug-in SnapCenter pour VMware vSphere 5.0</block>
 </blocks>
